@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Interlinking SEO Tool**
 
-- 🌱 I’m currently learning **TypeScript · Framer Motion · Accessibility in React · PySpark · Docker**
+- 🌱 I’m currently learning **TypeScript · Framer Motion · Accessibility in React · Docker**
 
 - 👯 I’m looking to collaborate on **AI-Powered Personal Assistant for Email Automation**
 
