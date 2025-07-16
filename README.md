@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likithayadavg&label=Profile%20views&color=0e75b6&style=flat" alt="likithayadavg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likithayadavg" alt="likithayadavg" /></a> </p>
 
 - 🔭 I’m currently working on **Interlinking SEO Tool**
 
