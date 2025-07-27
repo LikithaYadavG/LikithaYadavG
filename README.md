@@ -1,5 +1,5 @@
 ![](https://octodex.github.com/images/daftpunktocat-guy.gif)
-<h1 align="center">Hi 👋, I'm Likitha Yadav G</h1>
+<h1 align="center">Hello 👋, I'm Likitha Yadav G</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likithayadavg&label=Profile%20views&color=0e75b6&style=flat" alt="likithayadavg" /> </p>
