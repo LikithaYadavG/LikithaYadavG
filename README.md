@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likithayadavg&label=Profile%20views&color=0e75b6&style=flat" alt="likithayadavg" /> </p>
 
 
-- 🔭 I’m currently working on **Automation Tools**
+- 🔭 I’m currently working on **Automation Tools using ai**
 
 - 🌱 I’m currently learning **TypeScript · Framer Motion · Accessibility in React · Docker**
 
