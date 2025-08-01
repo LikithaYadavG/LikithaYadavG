@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Automation Tools using ai**
 
-- 🌱 I’m currently learning **TypeScript · Framer Motion · Accessibility in React · Docker**
+- 🌱 I’m currently learning **TypeScript · Framer Motion · Accessibility in React · Docker **
 
 - 👯 I’m looking to collaborate on **AI-Powered Personal Assistant for Email Automation**
 
